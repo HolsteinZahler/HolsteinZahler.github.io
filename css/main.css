@@ -86,6 +86,9 @@ pre {
     border: 3px solid white;
     padding: 10px;
 }
+#animationHolder {
+    padding-top: 30px;
+}
 .captionText {
     margin: auto;
     font-size: 18px;
